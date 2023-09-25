@@ -1,0 +1,10 @@
+0.6
+2018.2
+Jun 14 2018
+20:41:02
+D:/Hossam/Digital_IC_Design/Verilog_Projects/PWM/PWM.sim/sim_1/behav/xsim/glbl.v,1529022455,verilog,,,,glbl,,,,,,,,
+D:/Hossam/Digital_IC_Design/Verilog_Projects/PWM/PWM.srcs/sim_1/new/Basic_PWM_tb.v,1693517034,verilog,,,,Basic_PWM_tb,,,,,,,,
+D:/Hossam/Digital_IC_Design/Verilog_Projects/PWM/PWM.srcs/sim_1/new/PWM_Enhanced_tb.v,1693523063,verilog,,,,PWM_Enhanced_tb,,,,,,,,
+D:/Hossam/Digital_IC_Design/Verilog_Projects/PWM/PWM.srcs/sources_1/new/Basic_PWM.v,1693516401,verilog,,D:/Hossam/Digital_IC_Design/Verilog_Projects/PWM/PWM.srcs/sim_1/new/Basic_PWM_tb.v,,Basic_PWM,,,,,,,,
+D:/Hossam/Digital_IC_Design/Verilog_Projects/PWM/PWM.srcs/sources_1/new/PWM_Enhanced.v,1693523255,verilog,,D:/Hossam/Digital_IC_Design/Verilog_Projects/PWM/PWM.srcs/sources_1/new/Timer.v,,PWM_Enhanced,,,,,,,,
+D:/Hossam/Digital_IC_Design/Verilog_Projects/PWM/PWM.srcs/sources_1/new/Timer.v,1693518291,verilog,,D:/Hossam/Digital_IC_Design/Verilog_Projects/PWM/PWM.srcs/sim_1/new/PWM_Enhanced_tb.v,,Timer,,,,,,,,

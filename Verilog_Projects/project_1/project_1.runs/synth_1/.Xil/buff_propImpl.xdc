@@ -1,0 +1,5 @@
+set_property SRC_FILE_INFO {cfile:D:/Hossam/Digital_IC_Design/Verilog_Projects/project_1/project_1.srcs/constrs_1/imports/digilent-xdc-master/Nexys-4-DDR-Master.xdc rfile:../../../project_1.srcs/constrs_1/imports/digilent-xdc-master/Nexys-4-DDR-Master.xdc id:1} [current_design]
+set_property src_info {type:XDC file:1 line:13 export:INPUT save:INPUT read:READ} [current_design]
+set_property -dict { PACKAGE_PIN J15   IOSTANDARD LVCMOS33 } [get_ports { I }]; #IO_L24N_T3_RS0_15 Sch=sw[0]
+set_property src_info {type:XDC file:1 line:33 export:INPUT save:INPUT read:READ} [current_design]
+set_property -dict { PACKAGE_PIN H17   IOSTANDARD LVCMOS33 } [get_ports { 0 }]; #IO_L18P_T2_A24_15 Sch=led[0]

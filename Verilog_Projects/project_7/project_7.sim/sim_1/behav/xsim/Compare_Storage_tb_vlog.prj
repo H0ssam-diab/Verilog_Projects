@@ -1,0 +1,13 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../project_7.srcs/sources_1/imports/new/Compare_Storage_Elements.v" \
+"../../../../project_7.srcs/sources_1/imports/new/D_FF.v" \
+"../../../../project_7.srcs/sources_1/imports/new/D_FF_neg.v" \
+"../../../../project_7.srcs/sources_1/imports/new/D_Latch.v" \
+"../../../../project_7.srcs/sim_1/new/Compare_Storage_tb.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

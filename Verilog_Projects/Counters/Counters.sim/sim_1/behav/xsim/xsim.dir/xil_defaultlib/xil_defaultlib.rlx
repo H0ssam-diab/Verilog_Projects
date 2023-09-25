@@ -1,0 +1,12 @@
+0.6
+2018.2
+Jun 14 2018
+20:41:02
+D:/Hossam/Digital_IC_Design/Verilog_Projects/Counters/Counters.sim/sim_1/behav/xsim/glbl.v,1529022455,verilog,,,,glbl,,,,,,,,
+D:/Hossam/Digital_IC_Design/Verilog_Projects/Counters/Counters.srcs/sim_1/new/Async_Counter_tb.v,1693403840,verilog,,,,Async_Counter_tb,,,,,,,,
+D:/Hossam/Digital_IC_Design/Verilog_Projects/Counters/Counters.srcs/sim_1/new/Modulus_Counter_tb.v,1693418938,verilog,,,,Modulus_Counter_tb,,,,,,,,
+D:/Hossam/Digital_IC_Design/Verilog_Projects/Counters/Counters.srcs/sim_1/new/Sync_Counter_tb.v,1693405330,verilog,,,,Sync_Counter_tb,,,,,,,,
+D:/Hossam/Digital_IC_Design/Verilog_Projects/Counters/Counters.srcs/sources_1/new/Async_Counter.v,1693403239,verilog,,D:/Hossam/Digital_IC_Design/Verilog_Projects/Counters/Counters.srcs/sources_1/new/T_FF.v,,Async_Counter,,,,,,,,
+D:/Hossam/Digital_IC_Design/Verilog_Projects/Counters/Counters.srcs/sources_1/new/Modulus_Counter.v,1693417624,verilog,,D:/Hossam/Digital_IC_Design/Verilog_Projects/Counters/Counters.srcs/sim_1/new/Modulus_Counter_tb.v,,Modulus_Counter,,,,,,,,
+D:/Hossam/Digital_IC_Design/Verilog_Projects/Counters/Counters.srcs/sources_1/new/Sync_Counter.v,1693405502,verilog,,D:/Hossam/Digital_IC_Design/Verilog_Projects/Counters/Counters.srcs/sources_1/new/T_FF.v,,Sync_Counter,,,,,,,,
+D:/Hossam/Digital_IC_Design/Verilog_Projects/Counters/Counters.srcs/sources_1/new/T_FF.v,1693401998,verilog,,D:/Hossam/Digital_IC_Design/Verilog_Projects/Counters/Counters.srcs/sim_1/new/Sync_Counter_tb.v,,T_FF,,,,,,,,

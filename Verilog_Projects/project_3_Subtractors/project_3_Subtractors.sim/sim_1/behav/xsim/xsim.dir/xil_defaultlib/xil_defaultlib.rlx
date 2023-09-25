@@ -1,0 +1,11 @@
+0.6
+2018.2
+Jun 14 2018
+20:41:02
+D:/Hossam/Digital_IC_Design/Verilog_Projects/project_3_Subtractors/project_3_Subtractors.sim/sim_1/behav/xsim/glbl.v,1529022455,verilog,,,,glbl,,,,,,,,
+D:/Hossam/Digital_IC_Design/Verilog_Projects/project_3_Subtractors/project_3_Subtractors.srcs/sim_1/new/Adder_Subtractor_tb.v,1692718050,verilog,,,,Adder_Subtractor_tb,,,,,,,,
+D:/Hossam/Digital_IC_Design/Verilog_Projects/project_3_Subtractors/project_3_Subtractors.srcs/sim_1/new/halfAdder_tb.v,1692797073,verilog,,,,halfAdder_tb,,,,,,,,
+D:/Hossam/Digital_IC_Design/Verilog_Projects/project_3_Subtractors/project_3_Subtractors.srcs/sources_1/imports/new/FA.v,1692457082,verilog,,D:/Hossam/Digital_IC_Design/Verilog_Projects/project_3_Subtractors/project_3_Subtractors.srcs/sources_1/imports/new/halfAdder.v,,FA,,,,,,,,
+D:/Hossam/Digital_IC_Design/Verilog_Projects/project_3_Subtractors/project_3_Subtractors.srcs/sources_1/imports/new/halfAdder.v,1692455161,verilog,,D:/Hossam/Digital_IC_Design/Verilog_Projects/project_3_Subtractors/project_3_Subtractors.srcs/sim_1/new/halfAdder_tb.v,,halfAdder,,,,,,,,
+D:/Hossam/Digital_IC_Design/Verilog_Projects/project_3_Subtractors/project_3_Subtractors.srcs/sources_1/imports/new/rca_nbit_Adder.v,1692461894,verilog,,D:/Hossam/Digital_IC_Design/Verilog_Projects/project_3_Subtractors/project_3_Subtractors.srcs/sim_1/new/Adder_Subtractor_tb.v,,rca_nbit_Adder,,,,,,,,
+D:/Hossam/Digital_IC_Design/Verilog_Projects/project_3_Subtractors/project_3_Subtractors.srcs/sources_1/new/Adder_Subtractor.v,1692717701,verilog,,D:/Hossam/Digital_IC_Design/Verilog_Projects/project_3_Subtractors/project_3_Subtractors.srcs/sources_1/imports/new/FA.v,,Adder_Subtractor,,,,,,,,

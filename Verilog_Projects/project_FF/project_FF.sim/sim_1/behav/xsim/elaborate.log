@@ -1,0 +1,9 @@
+Vivado Simulator 2018.2
+Copyright 1986-1999, 2001-2018 Xilinx, Inc. All Rights Reserved.
+Running: C:/Xilinx/Vivado/2018.2/bin/unwrapped/win64.o/xelab.exe -wto b4e8d715e93c41658fb2abdba5bc3147 --incr --debug typical --relax --mt 2 -L xil_defaultlib -L unisims_ver -L unimacro_ver -L secureip --snapshot Comparison_tb_behav xil_defaultlib.Comparison_tb xil_defaultlib.glbl -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+ERROR: [VRFC 10-2538] module instantiation should have an instance name [D:/Hossam/Digital_IC_Design/Verilog_Projects/project_FF/project_FF.srcs/sources_1/new/Compare_Storage_Elements.v:28]
+ERROR: [VRFC 10-2063] Module <D_FF> not found while processing module instance <'Undefined'>
+ERROR: [VRFC 10-2063] Module <D_FF_neg> not found while processing module instance <'Undefined'>
+ERROR: [XSIM 43-3322] Static elaboration of top level Verilog design unit(s) in library work failed.

@@ -1,0 +1,57 @@
+`timescale 1ns / 1ps
+//////////////////////////////////////////////////////////////////////////////////
+// Company: 
+// Engineer: 
+// 
+// Create Date: 08/30/2023 05:15:17 PM
+// Design Name: 
+// Module Name: Sync_Counter_tb
+// Project Name: 
+// Target Devices: 
+// Tool Versions: 
+// Description: 
+// 
+// Dependencies: 
+// 
+// Revision:
+// Revision 0.01 - File Created
+// Additional Comments:
+// 
+//////////////////////////////////////////////////////////////////////////////////
+
+
+module Sync_Counter_tb(
+
+    );
+    reg T , clk , clear_n;
+    wire [3:0]Q ;
+    
+    Sync_Counter uut(
+    .T(T),
+    .clk(clk),
+    .clear_n(clear_n),
+    .Q(Q)
+    );
+    
+    
+    localparam PT =20 ;
+    always
+    begin
+    clk = 1'b0;
+    #(PT/2);
+    clk= 1'b1;
+    #(PT/2);
+    end
+    
+    initial 
+    begin
+    clear_n = 1'b0;
+    T = 1'b0;
+    
+    #45
+    clear_n = 1'b1;
+    T = 1'b1;
+    
+    end
+
+endmodule

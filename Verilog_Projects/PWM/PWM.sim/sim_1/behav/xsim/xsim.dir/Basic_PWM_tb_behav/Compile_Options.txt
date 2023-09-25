@@ -1,0 +1,1 @@
+-wto "8fd4166fcb7746848feb7308f7cf636d" --incr --debug "typical" --relax --mt "2" -L "xil_defaultlib" -L "unisims_ver" -L "unimacro_ver" -L "secureip" --snapshot "Basic_PWM_tb_behav" "xil_defaultlib.Basic_PWM_tb" "xil_defaultlib.glbl" -log "elaborate.log" 
